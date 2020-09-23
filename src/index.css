@@ -1,0 +1,4 @@
+.navbar-list a.chosen,
+.navbar-list a:hover {
+  border-bottom: 1px solid #F14B31;
+}
